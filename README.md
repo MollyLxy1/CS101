@@ -1,1 +1,1 @@
-这里是assignmentP，目前主要存放计概和一点其他的，希望以后能加上更多的东西
+这里是assignmentP，目前存放了计概作业和cheatsheet，希望以后能加上更多的东西
